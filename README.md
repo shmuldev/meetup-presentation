@@ -13,3 +13,5 @@ Five slides: community QR opening, then four debate topics with participants.
 QR destinations sourced from the local community website and portfolio:
 - WhatsApp: https://chat.whatsapp.com/ElO3rIzi1opC7q9eRiW0gI?s=cl&p=i&ilr=1
 - LinkedIn: https://www.linkedin.com/in/shmuel-c/
+
+- Orchid Security LinkedIn: https://www.linkedin.com/company/orchid-security/
